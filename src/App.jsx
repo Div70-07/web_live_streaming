@@ -1,6 +1,6 @@
 import React from 'react'
 import { Routes, Route } from 'react-router-dom'   // ✅ FIX HERE
-import Home from './pages/home'
+import Home from './pages/Home'
 import Room from './pages/Room'
 
 function App() {
